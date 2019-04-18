@@ -1,11 +1,20 @@
 # leetcode （中国） 算法刷题记录
 
+[![HitCount](http://hits.dwyl.io/yukai-w/algorithm-notes.svg)](http://hits.dwyl.io/yukai-w/algorithm-notes)
+
 - 不会算法的前端不是好的程序员 🐒
 - 每天有时间的话至少做两道 leetcode，不定时更新次项目
 - 有问题请尽情 diss 我
 - **我秃了，我也强了 👍**
 
-## 算法列表
+## 最近更新
+
+### 2019-04-18
+
+- [128. 最长连续序列](./topics/before/longest_consecutive_sequence.js)
+- [136. 只出现一次的数字](./topics/before/single_number.js)
+
+## 全部列表
 
 > ${题号}.${题目}
 
@@ -41,7 +50,5 @@
 30. [118. 杨辉三角](./topics/before/pascals_triangle.js)
 31. [119. 杨辉三角 II](./topics/before/pascals_triangle_ii.js)
 32. [125. 验证回文串](./topics/before/valid_palindrome.js)
-33. [128. 最长连续序列](./topics/before/longest_consecutive_sequence.js)
-34. [136. 只出现一次的数字](./topics/before/single_number.js)
-35. [141. 环形链表](./topics/before/linked_list_cycle.js)
-36. [155. 最小栈](./topics/before/min_stack.js)
+33. [141. 环形链表](./topics/before/linked_list_cycle.js)
+34. [155. 最小栈](./topics/before/min_stack.js)
