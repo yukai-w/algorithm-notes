@@ -1,11 +1,15 @@
 # leetcode （中国） 算法刷题记录
 
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![HitCount](http://hits.dwyl.io/yukai-w/algorithm-notes.svg)](http://hits.dwyl.io/yukai-w/algorithm-notes)
 
+## 写在前面
+
 - 不会算法的前端不是好的程序员 🐒
-- 每天有时间的话至少做两道 leetcode，不定时更新次项目
+- 每天有时间的话至少做两道 leetcode，不定时更新本项目
 - 有问题请尽情 diss 我
 - **我秃了，我也强了 👍**
+- [我的 leetcode](https://leetcode-cn.com/yukai-w/)
 
 ## 最近更新
 
@@ -14,7 +18,7 @@
 - [128. 最长连续序列](./topics/before/longest_consecutive_sequence.js)
 - [136. 只出现一次的数字](./topics/before/single_number.js)
 
-## 全部列表
+## 之前做的
 
 > ${题号}.${题目}
 
