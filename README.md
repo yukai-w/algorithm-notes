@@ -13,6 +13,10 @@
 
 ## 最近更新
 
+### 2019-04-23
+
+- [2.两数相加](./topics/20190423/add_two.js)
+
 ### 2019-04-18
 
 - [128. 最长连续序列](./topics/before/longest_consecutive_sequence.js)
